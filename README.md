@@ -5,3 +5,6 @@
 ### Internet Gateway
 ### NAT Gateway: outbound only
 ### Service Gateway: without public internet traffic
+### Dynamic
+#### VPN site to site
+#### FastConnect
