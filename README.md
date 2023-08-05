@@ -27,4 +27,7 @@
 mkdir .ssh
 cd .ssh
 ssh-keygen -b 2048 -t rsa -f a-name
+# connect to an instance
+ssh -i a-name <opc user name>@<public ip>
+sudo yum -y install httpd
 ```
