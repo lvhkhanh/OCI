@@ -5,7 +5,7 @@
 ### Internet Gateway
 ### NAT Gateway: outbound only
 ### Service Gateway: without public internet traffic
-### Dynamic routing gateway
+### Dynamic routing gateway, v2 vs Transit gateway prevent point to point gateway
 #### VPN site to site
 #### FastConnect
 ### Network visualize
