@@ -12,3 +12,4 @@
 ### CIDR longer specific will take higher priority in the routing table 192.168.0.0/16 vs 0.0.0.0/0
 ### Local Peering Gateway in the same region data center
 ### Security Lists vs Network Access Control Lists
+### Network Security Group(network interface card) vs Security group(EC2)
