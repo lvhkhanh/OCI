@@ -16,3 +16,5 @@
 ### Paste cloud init script vs EC2 user data
 ### Private instance not use public IP
 ### Add backends instance to load balancer
+### Virtual Machine: shared, multi tenant(customer)
+### Decicated host: single tenant(customer)
