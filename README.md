@@ -18,3 +18,9 @@
 ### Add backends instance to load balancer
 ### Virtual Machine: shared, multi tenant(customer)
 ### Decicated host: single tenant(customer)
+### SSH
+```
+mkdir .ssh
+cd .ssh
+ssh-keygen -b 2048 -t rsa -f a-name
+```
