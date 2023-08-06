@@ -33,3 +33,4 @@ sudo yum -y install httpd
 ```
 ### OKE(Oracle Kubernetes Engine) vs EKS(Elastic Kubernetes Service)
 ### Oracle Functions vs AWS Lambda
+### Object storage Pre-Authenticated request vs S3 Pre-signed request
