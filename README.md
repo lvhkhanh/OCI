@@ -31,3 +31,5 @@ ssh-keygen -b 2048 -t rsa -f a-name
 ssh -i a-name <opc user name>@<public ip>
 sudo yum -y install httpd
 ```
+### OKE(Oracle Kubernetes Engine) vs EKS(Elastic Kubernetes Service)
+### Oracle Functions vs AWS Lambda
