@@ -37,3 +37,4 @@ sudo yum -y install httpd
 ### Instance configuration
 ### Block Volume vs Elastic Block Storage: Low cost, balance, high performance, ultra high performance
 ### Autonômus database: warehouse, transaction(mixed mode), JSON, exadata
+### MySQL Database HeatWeave: in memory
