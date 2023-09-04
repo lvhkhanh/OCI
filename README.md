@@ -36,7 +36,8 @@ sudo yum -y install httpd
 ### Object storage Pre-Authenticated request vs S3 Pre-signed request
 ### Instance configuration
 ### Block Volume vs Elastic Block Storage: Low cost, balance, high performance, ultra high performance
-### Autonômus database: warehouse, transaction(mixed mode), JSON, exadata
+### Autonomous database: warehouse, transaction(mixed mode), JSON, exadata
 ### MySQL Database HeatWeave: in memory
 ### Security zones: enforce, restrict, monitor
 ### Vault: key, secret
+### Same price on different regions
