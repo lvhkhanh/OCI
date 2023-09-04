@@ -16,7 +16,7 @@
 ### CIDR longer specific will take higher priority in the routing table 192.168.0.0/16 vs 0.0.0.0/0
 ### Local Peering Gateway in the same region data center
 ### Security Lists vs Network Access Control Lists
-### Network Security Group(network interface card) vs Security group(EC2)
+### Network Security Group(network interface card, NSG firewall) vs Security group(EC2)
 ### Paste cloud init script vs EC2 user data
 ### Private instance not use public IP
 ### Add backends instance to load balancer
@@ -34,3 +34,4 @@ sudo yum -y install httpd
 ### OKE(Oracle Kubernetes Engine) vs EKS(Elastic Kubernetes Service)
 ### Oracle Functions vs AWS Lambda
 ### Object storage Pre-Authenticated request vs S3 Pre-signed request
+### Instance configuration
