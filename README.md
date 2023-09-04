@@ -1,5 +1,6 @@
 # OCI
 ## Glossary
+### Regision have N Availability Domains, Availability Domains have N Fault Domains
 ### Availablity Domain vs Available Zone
 ### Fault Domains vs...
 ### Compartments vs Resource Group
