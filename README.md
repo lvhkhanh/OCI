@@ -35,3 +35,4 @@ sudo yum -y install httpd
 ### Oracle Functions vs AWS Lambda
 ### Object storage Pre-Authenticated request vs S3 Pre-signed request
 ### Instance configuration
+### Block Volume vs Elastic Block Storage: Low cost, balance, high performance, ultra high performance
